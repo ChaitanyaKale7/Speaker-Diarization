@@ -1,0 +1,65 @@
+{
+    "dialogue": [
+      {
+        "speaker": "SPEAKER_01",
+        "text": "So, Aaron, in your email you said you wanted to talk about the exam.",
+        "start_time": 0.318,
+        "end_time": 4.1819999999999995
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah, um, I've just never taken a class with so many different readings.",
+        "start_time": 4.891,
+        "end_time": 9.902999999999999
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "you",
+        "start_time": 9.97,
+        "end_time": 10.037
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "I've managed to keep up with all the assignments.",
+        "start_time": 10.105,
+        "end_time": 12.535
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "But I'm not sure how to...",
+        "start_time": 12.974,
+        "end_time": 14.290000000000001
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "How do you?",
+        "start_time": 14.965,
+        "end_time": 15.572
+      },
+      {
+        "speaker": "SPEAKER_01",
+        "text": "how to review everything.",
+        "start_time": 16.214,
+        "end_time": 18.07
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "Yeah!",
+        "start_time": 18.425,
+        "end_time": 19.033
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "and other classes I've had.",
+        "start_time": 19.353,
+        "end_time": 20.838
+      },
+      {
+        "speaker": "SPEAKER_00",
+        "text": "There's usually just one book to review, not three different books, plus all those other text excerpts and videos.",
+        "start_time": 21.074,
+        "end_time": 27.402
+      }
+    ]
+  }
+  
